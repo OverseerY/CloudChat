@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812182927100",
+    "firebase_url": "https://testcloudchat-74997.firebaseio.com",
+    "project_id": "testcloudchat-74997",
+    "storage_bucket": "testcloudchat-74997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812182927100:android:a99ddff9b6410a19",
+        "android_client_info": {
+          "package_name": "com.yaroslav.testcloudchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812182927100-336ugn7na9kldg9betkn06agvm7ni8d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yaroslav.testcloudchat",
+            "certificate_hash": "3888196b6f21e71e3b82bf7befbbe8d6442a9e23"
+          }
+        },
+        {
+          "client_id": "812182927100-fcs6lbc4ldngk8c14kr469h50di13bqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz0vRBZ_XeFQnSlEQnAX9xEhdgTwsOXd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812182927100-fcs6lbc4ldngk8c14kr469h50di13bqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

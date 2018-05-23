@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestCloudChat</string>
+    <string name="send_button">Send</string>
+    <string name="input_message">Input message...</string>
+</resources>
